@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "星街の駅で - At Hoshimachi Station",
+  "base_artist": "tuki.",
+  "createdAt": "2025-12-14T14:26:35.550278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星街の駅で",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/01_星街の駅で_tuki..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星街の駅で - At Hoshimachi Station",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/02_星街の駅で_-_At_Hoshimachi_Station_tuki..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星街の駅で",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/03_星街の駅で_tuki..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星街の駅で - At Hoshimachi Station",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/04_星街の駅で_-_At_Hoshimachi_Station_tuki..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星街の駅で",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_星街の駅で_tuki..txt"
+    }
+  ]
+}
